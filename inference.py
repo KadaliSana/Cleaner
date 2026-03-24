@@ -322,7 +322,7 @@ def process_file(input_path, output_dir="output"):
 if __name__ == "__main__":
     
     # Process a single file example
-    process_file("Files/File_001.png")
+    process_file("Files/File_002.png")
     
     # Process all files in a directory
     #file_directory = "Files"
